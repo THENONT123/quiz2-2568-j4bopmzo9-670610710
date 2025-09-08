@@ -96,4 +96,6 @@ export default function AddFoodModal({}: AddFoodModalProps) {
       </div>
     </div>
   );
+
+  const total:number = 1000;
 }
